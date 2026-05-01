@@ -73,7 +73,7 @@ This is a practice project created to strengthen my understanding of machine lea
 * Pandas
 * NumPy
 * Scikit-learn
-* Jupyter Notebook
+* Google Colab Notebook
 
 ---
 
